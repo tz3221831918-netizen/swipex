@@ -4,6 +4,10 @@ SwipeX is a trackpad-first macOS window manager for people who want window contr
 
 Official website: https://swipex.lynvivian.com/
 
+Public project page: https://tz3221831918-netizen.github.io/swipex/
+
+![SwipeX macOS window manager with Window Layouts](docs/assets/swipex-window-layouts-hero.png)
+
 SwipeX lets you manage Mac windows from the title bar. Instead of memorizing a large shortcut map or dragging windows to screen edges, you can use title-bar swipe gestures to snap, maximize, reveal, and restore windows in a way that feels spatial and direct.
 
 ## What SwipeX Does
@@ -27,5 +31,8 @@ Put the pointer on the title bar. Swipe in the direction the window should go. S
 ## Links
 
 - Website: https://swipex.lynvivian.com/
+- Public project page: https://tz3221831918-netizen.github.io/swipex/
+- Release notes: https://github.com/tz3221831918-netizen/swipex/releases/tag/V1.82
+- Demo: https://youtu.be/qHaV9uiBXlM
 - Support: https://swipex.lynvivian.com/support
 - Privacy: https://swipex.lynvivian.com/privacy

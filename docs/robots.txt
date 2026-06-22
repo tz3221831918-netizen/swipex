@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tz3221831918-netizen.github.io/swipex/sitemap.xml
